@@ -1,0 +1,1 @@
+# FCC-Javascript-1-palindrome-checker
